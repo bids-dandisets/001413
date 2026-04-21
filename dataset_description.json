@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "This dandiset includes calcium imaging data of cortical neurons (SMA & M1) recorded in macaque monkeys during simple arm reaching task performance.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Galvan, Adriana"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
